@@ -1,6 +1,8 @@
 - Hi, I’m @jrerkens !
 - My name is Jimmy Erkens and I'm currently an undergraduate Statistics and Anthropology student at The Ohio State University 
-- Regarding my _professional_ goals, I intend to pursue a PhD program in biological anthropology while continuing to improve and implement my skills in data analysis
-- My statistical background has generally been more _math-heavy_ and frequency based; however, I've been shifting my focus more toward Bayesian methodologies in my work.
-- Here I'll be posting my open-source datasets as well as code from my data analyses, look for me @jrerkens on sketchfab for a repository of my 3D models !
+- Regarding my _professional_ goals, I intend to pursue a PhD program in biological anthropology while continuing to improve and implement my skills in data analysis.
+- My interests in bioanth are still fairly general, however I've worked/working on projects related to dental anthropology and skeletal biology of non-human primates. 
+- My statistics background has generally been more _math-heavy_ and frequency based; however, I've begun shifting my focus more toward Bayesian methodologies in my work.
+- I'm currently working on my thesis work (will be featured in Innovate OSU !) regarding facial asymmetry in populations of colobus monkeys. My work will incorporate a novel Bayesian Procrustes analysis so be on the lookout !
+- Here I'll be posting my open-source datasets as well as code from my data analyses, check @jrerkens on sketchfab for a repository of my 3D models !
 - Feel free to reach out to me if you have any questions regarding my interests in biological anthropology or otherwise :)
