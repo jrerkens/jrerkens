@@ -1,8 +1,5 @@
-- Hi, I’m @jrerkens !
-- My name is Jimmy Erkens and I'm currently an undergraduate Statistics and Anthropology student at The Ohio State University.
-- Regarding my professional goals, I intend to pursue a PhD program in biological anthropology while continuing to improve and implement my skills in data analysis and visualization.
-- Within bioanth, I'm primarily interested in stress and craniofacial morphology of non-human primates. 
-- My statistics education at Ohio State has generally been rooted in frequency-based mathematical statistics; however, I've begun shifting my focus more toward Bayesian methodologies in my work.
-- I'm currently working on my thesis work regarding fluctuating facial asymmetry in populations of colobus monkeys. I'm using `geomorph` to conduct a frequency-based 3D Procrustes analysis and I'll be using `brms` for further Bayesian results.
-- On github I post my open-source datasets as well as code from my data analyses, check @jrerkens on sketchfab for a repository of my 3D models.
-- Feel free to reach out to me if you have any questions !
+- Hi, I’m @jrerkens ! but please just call me Jimmy
+- I'm a Ph.D. student in Anthropology at Boston University.
+- I graduated from The Ohio State University with a degree in Statistics and Anthropology. Here, I also completed my undergraduate Honors thesis: _Facial fluctuating asymmetry in three species of colobus monkeys_ I also did some dental anthropology work concerning chacma babooons.
+- I'm interested in researching anthropogenic stress among populations of vervet monkeys (hopefully on St. Kitts!) but within my analysis I prefer to work within a Bayesian paradigm.
+- One of my goals is to make Statistics more approachable <3 please feel free to reach out, I love collaboration!
