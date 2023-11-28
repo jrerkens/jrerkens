@@ -1,4 +1,3 @@
 - Hi, I’m @jrerkens but please just call me Jimmy!
-- I'm a Ph.D. student in Anthropology at Boston University
-- I'm comparing autoimmune disease prevalence between _Chlorocebus sabaeus_ on St. Kitts and Nevis and the Gambia! Still in fledgling stages of developing this project but will be looking to test the Old Friends hypothesis in this species. In my analysis, I prefer to use Bayesian methods (both JAGS and `brms` are fun)
+- I'm a Ph.D. student in biological anthropology and primatologist at Boston University
 - One of my goals is to make Statistics more approachable <3 please feel free to reach out, I love collaboration!
